@@ -13,7 +13,7 @@ import Link from "next/link";
 
 export const Contacts = () => {
   return (
-    <section className="py-10 flex justify-center items-center">
+    <section className="py-10 flex justify-center items-center bg-white">
       <div className="container-main flex flex-col items-center">
         <h2 className="first-letter:uppercase font-semibold text-3xl">
           Наши контакты
@@ -31,6 +31,7 @@ export const Contacts = () => {
             query={{
               apikey: "3f9e23f5-c411-4d66-a698-9c6faa3595eb",
             }}
+            enterprise
           >
             <Map
               width={560}
