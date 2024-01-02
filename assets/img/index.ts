@@ -10,6 +10,14 @@ import reviews1 from "./reviews/reviews1.webp";
 import reviews2 from "./reviews/reviews2.webp";
 import reviews3 from "./reviews/reviews3.webp";
 import reviews4 from "./reviews/reviews4.webp";
+import twins from "./levitation/twins.webp";
+import arrowDown from "./edge/arrowDown.webp";
+import woman from "./category/woman.webp";
+import man from "./category/man.webp";
+import kudrMan from "./category/kudrMan.webp";
+import deadpool from "./category/deadpool.webp";
+import ded from "./category/ded.webp";
+import volumeWhite from "./category/volume.webp";
 
 export {
   logo,
@@ -24,4 +32,12 @@ export {
   reviews2,
   reviews3,
   reviews4,
+  twins,
+  arrowDown,
+  deadpool,
+  ded,
+  kudrMan,
+  man,
+  woman,
+  volumeWhite,
 };

@@ -2,7 +2,7 @@ import { ListGender } from "./ListGender";
 
 export const Gender = () => {
   return (
-    <section className="flex justify-center items-center bg-white">
+    <section className="flex justify-center items-center bg-white py-10">
       <div className="container-main flex flex-col gap-10">
         <p className="text-2xl font-semibold text-center">
           Заказать аудио для гендер-пати
